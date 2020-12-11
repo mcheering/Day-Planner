@@ -20,7 +20,7 @@
   <img src="" style="widthL 350px">
   
   <br></br>
-  <p>When the current hour is past the hour of an item on the planner, it will turn gray.  Hence, green items are in the future, red are current, and gray are in the past.  Below is an image showing the planner with all three in use.  
+  <p>When the current hour is past the hour of an item on the planner, it will turn gray.  Hence, green items are in the future, red are current, and gray are in the past.  Below is an image showing the planner with all three in use.</p>
   <img src="" style="width: 350px">
  
   
