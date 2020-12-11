@@ -5,7 +5,7 @@ Work Day Scheduler
 
 Access tool [here](https://mcheering.github.io/Day-Planner/)
 
-  
+This project uses momentjs to post the current date to the header and then compare the current time to the values for the time slots to adjust the color of them.  It also relies on local storage for users to input and store data.  
   
 
 When you click provided above, you will be taken to the site and it will look the image below. The date in the header is dynamic and will change based on the day.
